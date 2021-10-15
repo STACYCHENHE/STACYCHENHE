@@ -1,0 +1,76 @@
+body {
+ width: 960px;
+ margin-left: auto;
+ margin-right: auto;
+ background-image:url("background.jpg");
+ border-radius: 5px;
+ padding-left: 20px;
+ padding-right: 20px;
+ border-width: 1px;
+ border-style: solid;
+} 
+div{
+ background: rgba(135,206,250,1);
+ border-width: 1px;
+ border-style: solid;
+ border-color: white;
+ border-radius: 5px;
+ margin: 5px;
+}
+img.picture {
+ float: left;
+height: 300px;
+ width: 240px;}
+ img.pian{
+ height: 300px;
+ width: 240px;
+}
+div.flower-end {
+ clear: both;
+}
+p1{font-size:300%}
+p1{color: rgba(32,178,170,1.0);}
+p1{text-align: center;}
+li{font-size: 200%;}
+li{color: white;}
+li.a{text-decoration: underline;}
+li.a{color: rgba(0, 0, 205, 1.0);}
+
+div.footer{color: rgba(32,178,170,1.0);}
+p2{font-size: 200%;
+color: rgba(32, 178, 170, 1.0);}
+
+li.b{font-size: 200%;
+color: rgba(0, 0, 205, 1.0);}
+
+li.c{font-size: 200%;
+color: rgba(0, 0, 205, 1.0);}
+
+li.d{font-size: 200%;
+color: rgba(0, 0, 205, 1.0);}
+
+p3{font-size: 150%;
+color: white;}
+
+p4{font-size: 150%;
+color: white;}
+
+p5{font-size: 150%;
+color: white;}
+
+p6{font-size: 150%;
+color: white;}
+
+p7{font-size: 150%;
+color: white;}
+
+p8{font-size: 200%;
+color: rgba(32, 178, 170, 1.0);}
+
+img.photo{height:360 px;
+width: 440px;}
+
+img.pic{
+ float: left;
+ height: 280px;
+ width: 224px;}
